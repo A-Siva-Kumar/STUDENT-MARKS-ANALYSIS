@@ -55,7 +55,3 @@ Data Dictionary (column description)
 
 **WritingScore:** writing test score(0-100)
 
-### Analytics questions:
-What factors (features) affect test scores most?
-
-Are there interacting features which affect test scores?
